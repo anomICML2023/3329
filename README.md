@@ -9,17 +9,17 @@ Activate Environment: `conda activate neural_pathway`
 * `Directory: Offline\`
 
 #### Trained agents
-* [Here](https://drive.google.com/drive/folders/1u3YAIWXSjXsGjltnY9Pht-AQ7NXLMt0m?usp=sharing)
+* [Here](https://drive.google.com/drive/folders/1OPT_x4OUt5wvPzwkhc9oi8N6ofwUHwp4?usp=share_link)
 
 #### Run trained agents
 `python run_trained_agent.py --env_name metaworld --algo_name IQL --eval_episodes 100 --seed 0 --clip_grad --log_dir trained_data --save_video`
 
 #### Expert dataset
-* [Here](https://drive.google.com/drive/folders/19TW9JhIlADySX4J1p082lBLwr-Hz0G5M?usp=sharing)
+* [Here](https://drive.google.com/drive/folders/1oPnc12P3PCowJ-AWufGgpOMWov21PYyu?usp=share_link)
 
 #### Train agent
 `python main_parallel.py --algo_name='IQL' --env_name='metaworld' --clip_grad`
-* More demonstrations of trained agents are [here](https://drive.google.com/drive/folders/1u3YAIWXSjXsGjltnY9Pht-AQ7NXLMt0m)
+* More demonstrations of trained agents are [here](https://drive.google.com/drive/folders/14OpiARNI_hOucnEdgpTPmCR_PvKm_SdI?usp=share_link)
 
 
 
